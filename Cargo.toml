@@ -1,0 +1,11 @@
+[package]
+name = "support_schedule"
+version = "0.1.0"
+authors = ["Yatin Kanetkar <ykanetkar@pindrop.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.5"
+futures = "0.1.28"
+env_logger = "0.6.2"
+log = "0.4.8"
